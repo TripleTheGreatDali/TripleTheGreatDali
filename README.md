@@ -8,5 +8,5 @@
 - 📫 How to reach me: foysal.dali.fd@hotmail.com / foysaldali@mails.swust.edu.cn
 - 😄 Pronouns: I or You.
 - ⚡ Fun fact: In 1969 The Internet Consisted Of Just 4 Computers It's true.
-- <i class="fas fa-language"></i> I know English, Bangla, Hindi, Chinese, Arabic.
+- ⚡⚡ I know English, Bangla, Hindi, Chinese, Arabic.
 
