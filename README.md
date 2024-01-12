@@ -1,4 +1,4 @@
-### Hola, I'm Ahmed Md foysal (Dali) 李艺恒 👋
+### Hola, I'm Md Foysal Ahmed (Dali) 李艺恒 👋
 
 - 🔭 I’m currently working on Artificial intelligence.
 - 🌱 I’m currently learning Complete Ai.
