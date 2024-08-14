@@ -1,12 +1,11 @@
-### Hola, I'm Md Foysal Ahmed (Dali) 李艺恒 👋
+# Hola, I'm Md Foysal Ahmed (Dali) 李艺恒 👋
 
-- 🔭 I’m currently working on Artificial intelligence.
-- 🌱 I’m currently learning Complete Ai.
-- 👯 I’m looking to collaborate on Research.
-- 🤔 I’m looking for help with Future Technology.
-- 💬 Ask me about Anything.
-- 📫 How to reach me: foysal.dali.fd@hotmail.com / foysaldali@mails.swust.edu.cn
-- 😄 Pronouns: I or You.
-- ⚡ Fun fact: In 1969 The Internet Consisted Of Just 4 Computers It's true.
-- ⚡⚡ I know English, Bangla, Hindi, Chinese, Arabic.
-
+🔭 Currently Working On: Cutting-edge Artificial Intelligence projects.
+🌱 Learning Journey: Deepening my knowledge in AI, exploring its vast possibilities.
+👯 Collaboration Interests: Looking to collaborate on innovative research in AI and Future Technologies.
+🤔 Seeking Help With: Pioneering advancements in Future Technology.
+💬 Let's Talk About: AI, Future Tech, Research, or anything that sparks curiosity!
+📫 Reach Me At: foysal.dali.fd@hotmail.com / foysaldali@mails.swust.edu.cn
+😄 Pronouns: He/Him
+⚡ Fun Fact: The internet started with just 4 computers in 1969—it's true!
+🌍 Languages: Fluent in English, Bangla, Hindi, Chinese, and Arabic.
