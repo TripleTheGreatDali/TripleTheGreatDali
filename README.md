@@ -16,4 +16,4 @@
 
 ⚡ Fun Fact: The internet started with just 4 computers in 1969—it's true!
 
-🌍 Languages: Fluent in English, Bangla, Chinese, Hindi, and Arabic.
+🌍 Languages: Fluent in English, Bangla, Chinese.
