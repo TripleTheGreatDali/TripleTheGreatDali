@@ -38,9 +38,9 @@
 ## 🐍 Contribution Animations  
 
 <p align="center">
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/TripleTheGreatDali/TripleTheGreatDali/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/TripleTheGreatDali/TripleTheGreatDali/output/dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 
 <p align="center">
   <!-- Trophy Animation -->
