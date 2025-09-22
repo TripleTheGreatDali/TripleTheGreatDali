@@ -31,14 +31,12 @@
 
 ---
 
-## 🛠️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,pytorch,tensorflow,sklearn,vscode,pycharm,anaconda,flask,sublime,linux,windows&theme=light"/>
 </p>
 
----
 
-## 📊
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TripleTheGreatDali&theme=onestar&margin-w=10&margin-h=10&row=1&column=6" alt="Trophies"/>
@@ -64,25 +62,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TripleTheGreatDali&theme=radical" alt="Summary"/>
 </p>
 
----
 
-## 📈
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TripleTheGreatDali&style=for-the-badge&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/TripleTheGreatDali?label=Followers&style=for-the-badge&color=green"/>
   <img src="https://img.shields.io/github/stars/TripleTheGreatDali?label=Stars&style=for-the-badge&color=yellow"/>
 </p>
 
----
 
-## 🎞️  
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
 </p>
 
 ---
-
-## 🌟 
+ 
 - 🎥 Watching AI and tech documentaries  
 - 🌏 Passionate about cross-cultural collaboration  
 - 📖 Analysis of technological evolution and deepening capabilities
