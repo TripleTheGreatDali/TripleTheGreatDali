@@ -18,8 +18,9 @@
 <p>
   <a href="mailto:foysal.dali.fd@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
   <a href="mailto:foysaldali@mails.swust.edu.cn"><img src="https://img.shields.io/badge/Academic%20Mail-0078D4?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mdfoysalahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Foysaldali"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-foysal-ahmed-%E6%9D%8E%E8%89%BA%E6%81%92%EF%BC%89-80909917a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://https://github.com/TripleTheGreatDali"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -37,7 +38,7 @@
 
 ## 🐍 Contribution Animation  
 <p align="center">
-  <img src="https://github.com/Foysaldali/Foysaldali/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/TripleTheGreatDali/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
