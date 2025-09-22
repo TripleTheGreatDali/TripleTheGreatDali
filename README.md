@@ -10,7 +10,7 @@
 - 📚 **Learning:** Deepening my knowledge in AI, exploring its vast possibilities.
 - 🤝 **Collaboration:** Innovative research in AI and Future Technologies.
 - 💬 **Topics:** AI, Future Tech, Research, or anything that sparks curiosity!
-- 🌍 **Languages:** English | Bangla | 中文 (Chinese)  
+- 🌍 **Languages:** English | Bangla | 中文 (Chinese).
 - ⚡ **Fact:** The internet began with **4 nodes in 1969**, now billions are connected.
 
 ---
