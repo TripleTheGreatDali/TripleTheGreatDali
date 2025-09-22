@@ -5,13 +5,13 @@
 ---
 
 ## 🔬 About Me  
-- 🎯 **Focus:** Artificial Intelligence and next-gen technology  
-- 🚀 **Currently:** Researching deep learning, generative AI, and automation  
-- 📚 **Learning:** Advanced AI, Quantum-inspired computing, and Future Tech  
-- 🤝 **Collaboration:** Open to AI research and futuristic innovation projects  
-- 💬 **Topics:** AI, Robotics, Innovation, Future Tech  
+- 🎯 **Focus:** Cutting-edge Artificial Intelligence projects.
+- 🚀 **Currently:** Interested in PhD opportunities.
+- 📚 **Learning:** Deepening my knowledge in AI, exploring its vast possibilities.
+- 🤝 **Collaboration:** Looking to collaborate on innovative research in AI and Future Technologies.
+- 💬 **Topics:** AI, Future Tech, Research, or anything that sparks curiosity!
 - 🌍 **Languages:** English | Bangla | 中文 (Chinese)  
-- ⚡ **Fact:** The internet began with **4 nodes in 1969**, now billions are connected  
+- ⚡ **Fact:** The internet began with **4 nodes in 1969**, now billions are connected.
 
 ---
 
