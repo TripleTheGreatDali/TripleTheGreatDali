@@ -3,14 +3,14 @@
 <img align="right" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="250"/>
 
 ## 🔬 About Me  
-- 🎯 **Currently Working On:** Cutting-edge **Artificial Intelligence** projects  
-- 📚 **Learning:** Advancing knowledge in **AI** and exploring new frontiers  
-- 🤝 **Collaboration Interests:** Research in **AI** and **Future Technologies**  
-- 🚀 **Seeking Help With:** Pioneering **Future Technology** breakthroughs  
-- 💬 **Let's Talk About:** AI, Future Tech, Research, Curiosity-driven ideas  
+- 🎯 **Working On:** Artificial Intelligence research and projects  
+- 📚 **Learning:** Advanced AI techniques and future applications  
+- 🤝 **Collaboration:** Open to research in AI and Future Tech  
+- 🚀 **Focus:** Pioneering progress in next-generation technologies  
+- 💬 **Topics:** AI, Future Tech, Research, Innovation  
 - 🌍 **Languages:** English | Bangla | 中文 (Chinese)  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:** The internet began with just **4 computers in 1969**  
+- ⚡ **Fact:** The internet began with only **4 computers in 1969**  
 
 ---
 
@@ -33,13 +33,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats  
@@ -50,7 +43,7 @@
 
 ---
 
-## 🌟 Fun Extras  
-- 🎥 Favorite Hobby: Exploring **AI trends** and **Tech documentaries**  
-- 🌏 Love connecting with people across cultures and languages  
-- 📖 Always curious about **history of technology**  
+## 🌟 Extras  
+- 🎥 Explore **AI trends** and tech documentaries  
+- 🌏 Connect with diverse cultures and languages  
+- 📖 Curious about the **history of technology**  
