@@ -31,14 +31,14 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,pytorch,tensorflow,sklearn,vscode,pycharm,anaconda,flask,sublime,linux,windows&theme=light"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TripleTheGreatDali&theme=onestar&margin-w=10&margin-h=10&row=1&column=6" alt="Trophies"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 📈 Dynamic Widgets  
+## 📈
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TripleTheGreatDali&style=for-the-badge&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/TripleTheGreatDali?label=Followers&style=for-the-badge&color=green"/>
@@ -75,18 +75,16 @@
 
 ---
 
-## 🎞️ Futuristic Visuals  
+## 🎞️  
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="280"/>
-  <img src="https://media.giphy.com/media/3o7TKQ2Pg7jQpFFpMO/giphy.gif" width="280"/>
 </p>
 
 ---
 
-## 🌟 Extras  
+## 🌟 
 - 🎥 Watching AI and tech documentaries  
 - 🌏 Passionate about cross-cultural collaboration  
-- 📖 Researching the evolution of computing and networks  
+- 📖 Analysis of technological evolution and deepening capabilities
 - 🧠 Focused on building **the intelligence of tomorrow**  
 
