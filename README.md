@@ -19,7 +19,8 @@
 <p align="center">
   <!-- Primary Contact -->
   <a href="mailto:foysal.dali.fd@hotmail.com"><img src="https://img.shields.io/badge/📧%20Email%20(Primary)-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
-  
+</p>
+<p align="center">
   <!-- Secondary Contacts -->
   <a href="mailto:foysaldali@mails.swust.edu.cn"><img src="https://img.shields.io/badge/Academic%20Mail-0A66C2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-foysal-ahmed-%E6%9D%8E%E8%89%BA%E6%81%92%EF%BC%89-80909917a/"><img src="https://img.shields.io/badge/LinkedIn-171515?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
