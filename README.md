@@ -35,10 +35,9 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🐍 Contribution Animation  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foysaldali&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysaldali&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github.com/Foysaldali/Foysaldali/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
