@@ -17,10 +17,15 @@
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:foysal.dali.fd@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
+  <!-- Primary Contact -->
+  <a href="mailto:foysal.dali.fd@hotmail.com"><img src="https://img.shields.io/badge/📧%20Email%20(Primary)-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
+  
+  <!-- Secondary Contacts -->
   <a href="mailto:foysaldali@mails.swust.edu.cn"><img src="https://img.shields.io/badge/Academic%20Mail-0A66C2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-foysal-ahmed-%E6%9D%8E%E8%89%BA%E6%81%92%EF%BC%89-80909917a/"><img src="https://img.shields.io/badge/LinkedIn-171515?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/TripleTheGreatDali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Md-Foysal-Ahmed-4"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0002-5933-8968"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
 ---
